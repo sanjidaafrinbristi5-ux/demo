@@ -1,2 +1,3 @@
 # demo
-this is first repository
+this is my first repository
+Author : BRISTI
